@@ -45,11 +45,6 @@ p a{
 color:black;
 }
 
-footer,
-header{
-    background-color: rgba(185, 181, 181, 0.692);
-}
-
 footer{
     display: flex;
     justify-content: center;
