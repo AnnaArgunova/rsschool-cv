@@ -11,7 +11,7 @@ __Location:__ | Kharkiv
 
 Summary
 ---
-I have learning Front-End for 1 year. За это время я  изучила HTML, CSS, JavaScript. 
+I have learning Front-End for 2 year. За это время я  изучила HTML, CSS, JavaScript. 
 I also studied React, SCSS, and Github. My main goal now is to get skills and knowledge from RS School and get a good job.
 
 Skills
@@ -29,7 +29,7 @@ Experience
 ---
 2004-2010: Kharkiv National University of Radio Electronics as engineer.  
 2010-2012: Wimm-Bill-Dann as Sales Representative.  
-2012-: PepsiCo, as Sales Representative.
+2012-February 2021: PepsiCo, as Sales Representative.
 
 Education
 ---
